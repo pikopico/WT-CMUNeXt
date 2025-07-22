@@ -1,4 +1,4 @@
-# 🚀 **Lightweight Wavelet Convolutional Network for Guidewire Segmentation**
+##  **Lightweight Wavelet Convolutional Network for Guidewire Segmentation**
 
 
 
